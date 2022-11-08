@@ -1,0 +1,14 @@
+Gross Premium Taka 2,905.53 3,222.33 3,011.61 2,660.36 2,504.36
+Net Premium Taka 1,585.49 1,823.21 1,635.97 1,357.75 1,066.00
+Commission Earned Taka 147.26 112.29 118.28 177.00 246.78
+Net Claim Taka 345.75 567.35 498.74 452.48 421.78
+Management expenses (Revenue Accounts) Taka 445.30 442.83 419.74 362.44 313.85
+Agency Commission Taka 383.62 444.08 437.18 373.22 355.17
+Underwriting Profit Taka 656.24 392.76 284.49 221.83 198.16
+Investment Income Taka 129.15 91.75 86.53 140.33 108.47
+Total Income Taka 1,861.90 2,027.25 1,840.78 1,675.08 1,421.25
+Profit before Tax Taka 750.40 440.17 332.62 309.62 258.60
+Profit after Tax Taka 532.66 341.91 267.39 240.22 178.30
+Dividend in amount Taka 209.94 139.96 104.97 104.97 104.97
+Dividend in percent % 20% 15% 15% 15%
+Dividend per share Taka 3.00 2.00 1.50 1.50 1.50

@@ -1,0 +1,23 @@
+Particulars 2016 2017 2018 2019 2020
+Gross Premium Income 3163.27 3293.55 3678.63 4,164.15 3,676.75
+Net Premium Income 1322.03 1524.35 1660.53 1,996.82 1,609.36
+Net Claims 334.48 371.15 470.93 565.48 389.77
+Underwriting Profit 385.16 399.96 403.06 413.55 965.40
+Investment Income 181.34 208.94 238.99 294.73 299.80
+Profit before Tax 303.53 307.80 318.89 360.60 1,016.58
+Profit after Tax 248.58 243.10 249.41 300.71 683.80
+Paid up Capital 806.91 806.91 806.91 887.60 931.98
+Share Holder's Equity 5643.42 6412.19 5746.34 5,858.47 6,242.22
+Total Liabilities 2944.82 3431.66 4419.08 5,241.25 5,062.75
+Total Reserves 4461.79 5203.88 4512.57 4,494.38 4,389.79
+Total Assets 8,588.24 9843.85 10165.42 11099.72 11,304.98
+Total Investment 5,135.98 5806.574666 5361.178316 5,346.07 5,432.46
+Fixed Assets 2212.33 2179.87 2149.21 2,140.61 2,115.12
+Earnings per Share (EPS) Taka 3.08 3.01 3.09 3.39 7.34
+P/E Ratio (Times) 16.13 20.38 21.03 15.41 8.40
+Book Value per Share (NAVPS) 69.94 79.47 71.21 66.00 66.98
+Market Value Per Share (Taka) 49.70 61.40 65.00 52.20 61.60
+Required Solvency Margin 390.18 401.07 473.59 511.79 442.30
+Available Solvency Margin 4001 3407.01 2589.57 1,433.87 1,830.79
+% of Dividend Paid ( Cash) 20% 20% 10% 15% 24.50%
+% of Dividend Paid ( Stock) - - 10% 5% 7.50%

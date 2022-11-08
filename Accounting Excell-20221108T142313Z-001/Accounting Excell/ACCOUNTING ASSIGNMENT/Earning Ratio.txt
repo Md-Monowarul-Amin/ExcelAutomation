@@ -1,0 +1,16 @@
+Particulars 2016 2017 2018 2019 2020
+Premium growth 5% 4% 12% 13% -12%
+Risk retention ratio 42% 46% 45% 48% 44%
+Re-insurance Commission yield 25% 19% 18% 15% 27%
+Net loss ratio 25% 24% 28% 28% 24%
+Management expense ratio 41% 40% 39% 38% 32%
+Combined ratio (gross basis) 51% 51% 52% 51% 43%
+Investment yield 3% 3% 4% 5% 5%
+Underwriting profit margin 12% 12% 11% 10% 26%
+Net profit margin 8% 7% 7% 7% 19%
+Return on Equity (ROE) 4% 4% 4% 5% 11%
+Return on Asset (ROA) 3% 2% 2% 3% 6%
+Dividend yield 4% 3% 3% 4% 5%
+Dividend payout ratio 65% 66% 65% 59% 44%
+Price Earning ratio 16.13 20.38 21.03 15.41 8.40
+Earnings per share 3.08 3.01 3.09 3.39 7.34

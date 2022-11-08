@@ -1,0 +1,9 @@
+Financial Position
+Paid Up Capital Taka 699.81 699.81 699.81 699.81 699.81
+Share holders’ Equity Taka 3,481.66 3,085.43 3,154.47 2,919.11 2,211.29
+Current Liability Taka 1,857.11 1,612.57 1,341.51 1,163.35 953.25
+Fixed Assets Taka 524.57 543.80 553.53 553.80 539.72
+Current Assets Taka 4,814.20 4,154.19 3,942.45 3,528.66 2,624.82
+Total Assets Taka 5,338.77 4,697.99 4,495.98 4,082.46 3,164.54
+Fixed Deposit Taka 1,411.91 1,132.54 939.66 814.47 760.69
+Investment Taka 2,872.08 2,589.19 2,702.76 2,423.18 1,796.81
